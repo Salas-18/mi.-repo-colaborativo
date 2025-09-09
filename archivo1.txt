@@ -1,1 +1,2 @@
 Cambio realizado en local
+Línea añadida desde GitHub en la tarea.
